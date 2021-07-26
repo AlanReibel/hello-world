@@ -1,2 +1,4 @@
 # hello-world
-Test repository
+Hi humans,
+I'm trying to share some code..
+
